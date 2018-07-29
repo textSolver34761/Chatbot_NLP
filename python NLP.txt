@@ -1,0 +1,13 @@
+NLTK with pthon
+
+NLP : computer understands naturel languge -> written langugage
+convert form of langugage to numbers
+
+finance / stock
+politic / issuies
+goegraphical / ppl say
+
+NLP: powerful
+
+nltk.org
+
