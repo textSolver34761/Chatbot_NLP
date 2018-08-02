@@ -11,3 +11,27 @@ NLP: powerful
 
 nltk.org
 
+NLTK doesn't work with Phyton version 37.
+
+Works with V 36.
+
+Download EVERY packages
+
+Tokenizing - word and sentence. Seperates by words or sentence.
+Lexicon and corporas
+corporas is body of text like medical journal,
+lexicon is a dico - words and means
+
+investor-speak vs regular english-speak
+
+investor-speak : bull --> someone who's positive about the stock market;
+english-speak : bull --> animal
+
+You would separate words by using space or saying when ponctuation and space and capial letter, then, it's a new sentance.
+But, If we have "Hi Mr. Smith ...", we have ponctuation, space and Capital letter. And it's not a new sentance
+
+Using word_tokenize or sent_tokenize will save that work for you!!
+
+
+
+ 
