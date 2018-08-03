@@ -32,6 +32,13 @@ But, If we have "Hi Mr. Smith ...", we have ponctuation, space and Capital lette
 
 Using word_tokenize or sent_tokenize will save that work for you!!
 
+Stop words:
 
+analyse part text
+and help with stop words
 
- 
+words starcasticly or without meaning (a, the, and) filler words
+USELESS for analisys USEFULL for humains.
+
+example_sentence = "This is an example showing off stop word filtration."
+Machine ketp : ['This', 'example', 'showing', 'stop', 'word', 'filtration', '.']
